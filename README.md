@@ -1,1 +1,1 @@
-# conhecendoaJariane
+# aula de script
